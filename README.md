@@ -17,8 +17,12 @@
 [<img align="left" alt="nodinosaur | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=nodinosaur&count_private=true&show_icons=true&hide_border=false&theme=vue)
+<br />
 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=nodinosaur&count_private=true&show_icons=true&hide_border=false&theme=vue)
+
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nodinosaur&theme=vue)](https://github.com/nodinosaur/github-readme-stats)
 
