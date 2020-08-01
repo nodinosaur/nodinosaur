@@ -1,8 +1,10 @@
+### 🌳
 ### Hi, I'm George. 👋
 
-### I'm an Engineering Manager, Developer (with a lot of experience) and FlutterLDN Presenter!
+I am currently working as a Head of Mobile Engineering. I liaise and organise but I do enjoy coding!
 
 - 🔭 I’m currently working at the MailOnline
+- 😼 I’m The Chief and Founder of [FlutterLDN](https://www.flutterldn.dev)
 - 💬 Ask me about Flutter, Android, _(even ActionScript)_ or just try your luck!
 - 🌱 I’m always learning, but I have also coded a lot!
 - ⚡ Fun fact: I tried blogging once, before it was a thing!
@@ -14,7 +16,7 @@
 [<img align="left" alt="nodinosaur | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="nodinosaur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nodinosaur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="nodinosaur | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="FlutterLDN | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 <br />
