@@ -26,7 +26,7 @@ I am currently working as a Head of Mobile Engineering. I liaise and organise bu
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nodinosaur&theme=vue)](https://github.com/nodinosaur/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nodinosaur&theme=vue)
 
 
 [website]: http://www.georgemedve.com/
