@@ -1,7 +1,7 @@
 ### 🌳
 ### Hi, I'm George. 👋
 
-I am currently working as a Head of Mobile Engineering. I liaise and organise but I do enjoy coding!
+I am currently working as a Software Development Manager. I liaise and organise but I do enjoy coding!
 
 - 🔭 SDM III @ [Discovery Inc](https://www.linkedin.com/company/discoveryinc/)
 - 🔭 ex-Head of Mobile Engineering @ MailOnline
