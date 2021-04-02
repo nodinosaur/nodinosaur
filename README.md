@@ -4,7 +4,7 @@
 I am currently working as a Software Development Manager. I liaise and organise but I do enjoy coding!
 
 - 🔭 SDM III @ [Discovery Inc](https://www.linkedin.com/company/discoveryinc/)
-- 🔭 ex-Head of Mobile Engineering @ MailOnline
+- 🔭 ex-Head of Mobile Engineering @ [MailOnline](https://github.com/MailOnline)
 - 😼 I’m The Chief and Founder of [FlutterLDN](https://www.flutterldn.dev)
 - 💬 Ask me about Flutter, Android, _(even ActionScript)_ or just try your luck!
 - 🌱 I’m always learning, but I have also coded a lot!
