@@ -3,7 +3,8 @@
 
 I am currently working as a Software Development Manager. I liaise and organise but I do enjoy coding!
 
-- 🔭 SDM III @ [Discovery Inc](https://www.linkedin.com/company/discoveryinc/)
+- 🔭 Head of Mobile (assoc Dir) @ [Plentific](https://www.linkedin.com/company/plentific/)
+- 🔭 ex-SDM III @ [Discovery Inc](https://www.linkedin.com/company/discoveryinc/)
 - 🔭 ex-Head of Mobile Engineering @ [MailOnline](https://github.com/MailOnline)
 - 😼 I’m The Chief and Founder of [FlutterLDN](https://www.flutterldn.dev)
 - 💬 Ask me about Flutter, Android, _(even ActionScript)_ or just try your luck!
@@ -14,7 +15,7 @@ I am currently working as a Software Development Manager. I liaise and organise 
 #### Connect with me:
 
 [<img align="left" alt="georgemedve.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="nodinosaur | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="nodinosaur | X/Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="nodinosaur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="nodinosaur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="FlutterLDN | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -31,7 +32,7 @@ I am currently working as a Software Development Manager. I liaise and organise 
 
 
 [website]: http://www.georgemedve.com/
-[twitter]: https://twitter.com/nodinosaur
+[twitter]: https://x.com/nodinosaur
 [youtube]: https://www.youtube.com/channel/UC_a-vGdkAIRMKT1zzZ4I2ag
 [instagram]: https://instagram.com/nodinosaur
 [linkedin]: https://www.linkedin.com/in/georgemedve/
