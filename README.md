@@ -3,7 +3,9 @@
 
 I am currently working as a Software Development Manager. I liaise and organise but I do enjoy coding!
 
-- 🔭 Head of Mobile (assoc Dir) @ [Plentific](https://www.linkedin.com/company/plentific/)
+- 🔭 Secret position at a Stealth Startup - very exciting stuff @ sorry can't speak about it
+  - But to all those companies who didn't arrange that interview with me - you missed out!
+- 🔭 ex-Head of Mobile (assoc Dir) @ [Plentific](https://www.linkedin.com/company/plentific/)
 - 🔭 ex-SDM III @ [Discovery Inc](https://www.linkedin.com/company/discoveryinc/)
 - 🔭 ex-Head of Mobile Engineering @ [MailOnline](https://github.com/MailOnline)
 - 😼 I’m The Chief and Founder of [FlutterLDN](https://www.flutterldn.dev)
@@ -23,12 +25,6 @@ I am currently working as a Software Development Manager. I liaise and organise 
 <br />
 <br />
 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=nodinosaur&count_private=true&show_icons=true&hide_border=false&theme=vue)
-
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nodinosaur&theme=vue)
 
 
 [website]: http://www.georgemedve.com/
