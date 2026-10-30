@@ -3,7 +3,7 @@
 
 I am the author of [HA TV Dashboard](https://play.google.com/store/apps/details?id=io.homeassistant.companion.androidtv), the official "unofficial" Android TV companion app for Home Assistant with well over 11,000 installs.
 
-I am currently working as an Engineering Manager. I liaise and organise but I do enjoy coding!
+I am currently working as a _Member of Technical Staff_. I liaise and I organise and in my own time I create!
 
 - 🚀 ex-Engineering Manager, help to guide my Team through the trials and tribulations of building software for [AJ Bell](https://www.linkedin.com/company/ajbell/)
 - 🔭 ex-Secret position at a Stealth Startup - very exciting stuff @ sorry can't speak about it
