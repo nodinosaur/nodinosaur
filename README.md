@@ -5,7 +5,7 @@ I am the author of [HA TV Dashboard](https://play.google.com/store/apps/details?
 
 I am currently working as an Engineering Manager. I liaise and organise but I do enjoy coding!
 
-- 🚀 Engineering Manager, help to guide my Team through the trials and tribulations of building software for [AJ Bell](https://www.linkedin.com/company/ajbell/)
+- 🚀 ex-Engineering Manager, help to guide my Team through the trials and tribulations of building software for [AJ Bell](https://www.linkedin.com/company/ajbell/)
 - 🔭 ex-Secret position at a Stealth Startup - very exciting stuff @ sorry can't speak about it
   - But to all those companies who didn't arrange that interview with me - you missed out!
 - 🔭 ex-Head of Mobile (assoc Dir) @ [Plentific](https://www.linkedin.com/company/plentific/)
