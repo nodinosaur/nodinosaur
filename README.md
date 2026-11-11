@@ -2,8 +2,9 @@
 ### Hi, I'm George. 👋
 
 I am the author of [HA TV Dashboard](https://play.google.com/store/apps/details?id=io.homeassistant.companion.androidtv), the official "unofficial" Android TV companion app for Home Assistant with well over 11,000 installs.
+I also authored the [D-Pad UI Plugin](https://plugins.jetbrains.com/plugin/27026-d-pad-ui-addon/) for Android Studio [repo](https://github.com/nodinosaur/dpad-ui-addon).
 
-I am currently working as a _Member of Technical Staff_. I liaise and I organise and in my own time I create!
+I am currently working as a _Member of Technical Staff_. I liaise and I organise and in my own time I really enjoy creating!
 
 - 🚀 ex-Engineering Manager, help to guide my Team through the trials and tribulations of building software for [AJ Bell](https://www.linkedin.com/company/ajbell/)
 - 🔭 ex-Secret position at a Stealth Startup - very exciting stuff @ sorry can't speak about it
